@@ -6,7 +6,7 @@
 - release
 - hotfix
 
-## Feature Branch Naming Suggested
+## Feature Branch Naming
 * <strong>Feature Branch Name Template</strong>:<br />
 `{Branch Category}/{task number}-{Short Feature Name}`
 
@@ -21,7 +21,7 @@
    `git push origin feature/1143-amazing-feature`
 5. Open a Pull Request to `develop` branch
 
-## Release Branch Naming suggested
+## Release Branch Naming
 * <strong>Release Branch Name Template</strong>:<br />
 `release/{Major Change}.{Minor Change}.{Patch}`
 
